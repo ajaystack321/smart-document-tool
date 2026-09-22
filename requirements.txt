@@ -3,3 +3,5 @@ pillow
 opencv-python-headless
 numpy
 pymupdf
+pytesseract
+python-docx
